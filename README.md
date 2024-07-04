@@ -1,44 +1,64 @@
-# Hi there 👋, I'm Bryan Ndum!
-
-**Cybersecurity Enthusiast | Junior at the University of North Carolina at Pembroke**
+# Hello, I'm Bryan Ndum
+<a href="https://www.linkedin.com/in/bryan-ndum-99488b23a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:Ndumbaba@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="tel:+19842747193"><img src="https://img.shields.io/badge/-Phone-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://www.instagram.com/Bryan_nbn/"><img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 ---
 
 ## 🚀 About Me
-Welcome to my portfolio! I’m a cybersecurity enthusiast currently pursuing my Bachelor's degree at UNCP. I'm passionate about to learning how secure networks and automating cybersecurity tools. As a member of the Maynor's Honors College, I have demonstrated excellent academic achievement and leadership through various extracurricular activities.
+I am a junior at the University of North Carolina at Pembroke, majoring in Cybersecurity. With a passion for technology and problem-solving, I am eager to apply my knowledge and skills in a computer-related internship. My academic journey has been marked by my involvement in the Maynor's Honors College and my commitment to various technical projects.
 
 ---
 
 ## 🔬 Projects
-Here are some projects I did, to horn my skills. Please check them out!
 
-### Mobile Vulnerability Scans
-[View Project](https://github.com/your-github-username/mobile-vulnerability-scans)  
-Conducted scans on mobile devices to identify and secure potential exploit points.
-
-### Java MCQ Grading System
-[View Project](https://github.com/your-github-username/java-mcq-grading-system)  
-Developed a Java application to automatically grade multiple-choice questions.
-
-### Weather Website
-[View Project](https://github.com/your-github-username/weather-website)  
-Created a dynamic weather website to provide real-time weather updates.
+| Project                                         | Description         |
+|-------------------------------------------------|----------------------|
+| [Mobile Vulnerability Scans](https://github.com/your-github-username/mobile-vulnerability-scans) | Conducted scans on mobile devices to identify and secure potential exploit points. |
+| [Java MCQ Grading System](https://github.com/your-github-username/java-mcq-grading-system) | Developed a Java application to automatically grade multiple-choice questions. |
+| [Weather Website](https://github.com/your-github-username/weather-website) | Created a dynamic weather website to provide real-time weather updates. |
 
 ---
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Java, JavaScript, CSS, HTML, BASH, Python
-- **Cybersecurity Tools:** Vulnerability Management, SIEM Tools, Incident Response
-- **Cloud Platforms:** AWS, Azure
-- **Operating Systems:** Windows, Linux, MacOS
+### Programming Languages
+<div>
+    <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-BASH-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+### Cybersecurity Tools
+<div>
+    <img src="https://img.shields.io/badge/-Vulnerability_Management-4D4D4D?&style=for-the-badge&logo=security&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SIEM-000000?&style=for-the-badge&logo=security&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Incident_Response-E4405F?&style=for-the-badge&logo=security&logoColor=white" />
+</div>
+
+### Cloud Platforms
+<div>
+    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</div>
+
+### Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-MacOS-000000?&style=for-the-badge&logo=apple&logoColor=white" />
+</div>
 
 ---
 
 ## 🎓 Education
 
 **University of North Carolina at Pembroke**  
-*Bachelors of Science in Cybersecurity (Anticipated graduation: December 2025)*  
+*Bachelor of Science in Cybersecurity (Anticipated graduation: December 2025)*  
 Maynor's Honors College  
 - Recognized for excellent academic achievement (3.5 CGPA)
 - Volunteered for [UNCP Tedx 2024](https://www.linkedin.com/feed/update/urn:li:activity:7188624003454971906/)
@@ -48,36 +68,27 @@ Maynor's Honors College
 ## 💼 Experience
 
 **Research Assistant on SDN (2024 – Present)**  
-I am currently exploring self-driven secure networks on the SDN and how to use p4 programming language and tools to automate cybersecurity practice. Here, I learned how to use github repositories, baash, Vagrant and Linux OS such as Kali Linux and Ubuntu. Also, my skills on networking using mininet, navigating search engine and using AI tools such as ChatGPT, Microsoft Copilot, and Google Gemnini have seen significant growth.
+- Conducted research on self-driven secure networks using SDN.
+- Automated cybersecurity tools using P4 programming language.
+- Enhanced skills in GitHub, Bash, Vagrant, and Linux (Kali Linux and Ubuntu).
+- Improved networking skills using Mininet and navigated AI tools like ChatGPT, Microsoft Copilot, and Google Gemini.
 
 **Web Editor, Pine Needle News (2023)**  
-At Pine needle, I worked with a team of editors, producers and journalist. During my time as a web editor I learn technical writing skills and improved my communication skills which boasted productivity between my team. My Designing and editing skills were horned as redesigned web content to enhance user experience. Also, I implemented SEO practices which increase the news article views from 150 to 850views per week. 
+- Collaborated with a team to edit and enhance web content.
+- Improved communication and technical writing skills.
+- Implemented SEO practices, increasing weekly article views from 150 to 850.
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)][email]  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-
-[linkedin]: https://www.linkedin.com/in/bryan-ndum-99488b23a/
-[email]: mailto:Ndumbaba@gmail.com
-[instagram]: https://www.instagram.com/Bryan_nbn/
+<a href="https://www.linkedin.com/in/bryan-ndum-99488b23a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:Ndumbaba@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="tel:+19842747193"><img src="https://img.shields.io/badge/-Phone-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://www.instagram.com/Bryan_nbn/"><img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 ---
 
-<!--
-**BryanNdum/BryanNdum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bryan Ndum**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
