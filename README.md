@@ -16,7 +16,7 @@ I am a junior at the University of North Carolina at Pembroke, majoring in Cyber
 | Project                                         | Description         |
 |-------------------------------------------------|----------------------|
 | [Mobile Vulnerability Scans](https://github.com/your-github-username/mobile-vulnerability-scans) | Conducted scans on mobile devices to identify and secure potential exploit points. |
-| [Java MCQ Grading System](https://github.com/your-github-username/java-mcq-grading-system) | Developed a Java application to automatically grade multiple-choice questions. |
+| [Java MCQ Grading System](https://github.com/Bryan-Ndum/Java-MCQ-Grading-System/tree/main) | Developed a Java application to automatically grade multiple-choice questions. |
 | [Weather Website](https://github.com/your-github-username/weather-website) | Created a dynamic weather website to provide real-time weather updates. |
 
 ---
