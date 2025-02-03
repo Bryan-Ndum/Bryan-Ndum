@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-I am a junior at the University of North Carolina at Pembroke, majoring in Cybersecurity. With a passion for technology and problem-solving, I am eager to apply my knowledge and skills in a computer-related internship. My academic journey has been marked by my involvement in the Maynor's Honors College and my commitment to various technical projects.
+I am a senior at the University of North Carolina at Pembroke, majoring in Cybersecurity. With a passion for technology and problem-solving, I am eager to apply my knowledge and skills in a computer-related internship. My academic journey has been marked by my involvement in the Maynor's Honors College and my commitment to various technical projects.
 
 ---
 
