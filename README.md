@@ -1,6 +1,6 @@
 # Hello, I'm Bryan Ndum
 <a href="https://www.linkedin.com/in/bryan-ndum-99488b23a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:Ndumbaba@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:Bryanndum12@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="tel:+19842747193"><img src="https://img.shields.io/badge/-Phone-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://www.instagram.com/Bryan_nbn/"><img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
