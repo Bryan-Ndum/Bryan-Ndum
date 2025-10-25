@@ -58,9 +58,9 @@ Securing the digital world is what i live for!
 ## 🎓 Education
 
 **University of North Carolina at Pembroke**  
-*Bachelor of Science in Cybersecurity (Anticipated graduation: December 2025)*  
+*Bachelor of Science in Cybersecurity  
 Maynor's Honors College  
-- Recognized for excellent academic achievement (3.5 CGPA)
+- Recognized for excellent academic achievement (3.6 CGPA)
 - Volunteered for [UNCP Tedx 2024](https://www.linkedin.com/feed/update/urn:li:activity:7188624003454971906/)
 
 ---
