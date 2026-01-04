@@ -1,94 +1,68 @@
-# Hello, I'm Bryan Ndum
-<a href="https://www.linkedin.com/in/bryan-ndum-99488b23a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:Bryanndum12@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="tel:+19842747193"><img src="https://img.shields.io/badge/-Phone-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://www.instagram.com/Bryan_nbn/"><img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+# Hello, I'm Bryan Ndum 👋
+
+**Cybersecurity professional and researcher focused on secure networks, automation, and cloud risk**
+
+<a href="https://www.linkedin.com/in/bryan-ndum-99488b23a/"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:Bryanndum12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/Bryan_nbn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 ---
 
 ## 🚀 About Me
-Securing the digital world is what i live for!
+I am a cybersecurity professional with hands-on experience in secure networking, SDN research, automation, and system analysis. My work focuses on understanding how systems fail, detecting abnormal behavior, and designing practical defenses that scale across modern infrastructures.
 
 ---
 
-## 🔬 Projects
+## 🔬 Featured Projects
 
-| Project                                         | Description         |
-|-------------------------------------------------|----------------------|
-| [Mobile Vulnerability Scans](https://github.com/your-github-username/mobile-vulnerability-scans) | Conducted scans on mobile devices to identify and secure potential exploit points. |
-| [Java MCQ Grading System](https://github.com/Bryan-Ndum/Java-MCQ-Grading-System/tree/main) | Developed a Java application to automatically grade multiple-choice questions. |
-| [Weather Website](https://github.com/your-github-username/weather-website) | Created a dynamic weather website to provide real-time weather updates. |
+| Project | Description |
+|------|------------|
+| **SDN Security Research** | Researching self-driven secure networks using Software Defined Networking, focusing on attack detection and automated mitigation using Mininet and P4. |
+| **Automated Job Application System** | Built an automation system that generates tailored resumes and manages application workflows programmatically, focusing on efficiency, data organization, and repeatable processes. |
+| **Intrusion Detection System (IDS)** | Developed an intrusion detection system to monitor network traffic patterns and identify suspicious or malicious activity using rule-based and behavioral analysis techniques. |
+| **Java MCQ Grading System** | Built a Java-based system to automatically grade multiple-choice exams, reducing manual grading time and minimizing grading errors. |
+| **Weather Web App** | Developed a responsive web application that displays real-time weather data using public APIs and dynamic front-end components. |
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-### Programming Languages
-<div>
-    <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/-CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/-HTML-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/-BASH-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-</div>
+### Programming & Scripting
+- Python
+- Java
+- JavaScript
+- Bash
+- HTML, CSS
 
-### Cybersecurity Tools
-<div>
-    <img src="https://img.shields.io/badge/-Vulnerability_Management-4D4D4D?&style=for-the-badge&logo=security&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SIEM-000000?&style=for-the-badge&logo=security&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Incident_Response-E4405F?&style=for-the-badge&logo=security&logoColor=white" />
-</div>
+### Cybersecurity & Networking
+- Intrusion Detection Systems (IDS)
+- Vulnerability Management concepts
+- Incident Response fundamentals
+- SIEM concepts
+- Software Defined Networking (SDN)
+- Mininet, P4
 
-### Cloud Platforms
-<div>
-    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-</div>
+### Cloud & Platforms
+- Amazon Web Services (AWS)
+- Microsoft Azure
 
 ### Operating Systems
-<div>
-    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/-MacOS-000000?&style=for-the-badge&logo=apple&logoColor=white" />
-</div>
+- Linux (Kali Linux, Ubuntu)
+- Windows
+- macOS
 
 ---
 
 ## 🎓 Education
-
 **University of North Carolina at Pembroke**  
-*Bachelor of Science in Cybersecurity  
-Maynor's Honors College  
-- Recognized for excellent academic achievement (3.6 CGPA)
-- Volunteered for [UNCP Tedx 2024](https://www.linkedin.com/feed/update/urn:li:activity:7188624003454971906/)
+Bachelor of Science in Cybersecurity  
+Maynor’s Honors College  
 
 ---
 
-## 💼 Experience
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/bryan-ndum-99488b23a/
+- Email: Bryanndum12@gmail.com
 
-**Research Assistant on SDN (2024 – Present)**  
-- Conducted research on self-driven secure networks using SDN.
-- Automated cybersecurity tools using P4 programming language.
-- Enhanced skills in GitHub, Bash, Vagrant, and Linux (Kali Linux and Ubuntu).
-- Improved networking skills using Mininet and navigated AI tools like ChatGPT, Microsoft Copilot, and Google Gemini.
-
-**Web Editor, Pine Needle News (2023)**  
-- Collaborated with a team to edit and enhance web content.
-- Improved communication and technical writing skills.
-- Implemented SEO practices, increasing weekly article views from 150 to 850.
-
----
-
-## 📫 Connect with Me
-
-<a href="https://www.linkedin.com/in/bryan-ndum-99488b23a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:Ndumbaba@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="tel:+19842747193"><img src="https://img.shields.io/badge/-Phone-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://www.instagram.com/Bryan_nbn/"><img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
----
-
-**Bryan Ndum**
 
 
